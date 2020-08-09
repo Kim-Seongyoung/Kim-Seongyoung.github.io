@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Online Judge"
     url: /categories/onlineJudge/
-  - title: "Interview"
-    url: /interview/
   - title: "Project"
     url: /categories/project/
   # - title: "About"
