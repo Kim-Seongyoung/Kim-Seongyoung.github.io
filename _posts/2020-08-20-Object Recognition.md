@@ -21,7 +21,7 @@ tags:
 
 
 ## 2. Object recognition의 종류
-![01](https://user-images.githubusercontent.com/52816346/90980301-87d51d00-e595-11ea-9e1c-06eb7ba03123.JPG)
+![01](https://user-images.githubusercontent.com/52816346/90980498-b0114b80-e596-11ea-9f41-72896391cd4d.JPG)
 
 - Image Classification
 
@@ -39,7 +39,7 @@ tags:
 
   -  물체의 면적, 둘게 같은 요소를 정확하게 측정 불가
 
-![02](https://user-images.githubusercontent.com/52816346/90980304-89064a00-e595-11ea-9ec9-d9419a5404e7.jpg)
+![02](https://user-images.githubusercontent.com/52816346/90980500-b1427880-e596-11ea-9afa-0ee34c531d49.jpg)
 
 - Image Segmentation
 
@@ -55,7 +55,7 @@ tags:
   
     - Instance Segmentation : 각 객체의 경계를 식별하고 다른 색상으로 표시
 
-![03](https://user-images.githubusercontent.com/52816346/90980306-899ee080-e595-11ea-941c-cdd04f80b4f8.jpg)
+![03](https://user-images.githubusercontent.com/52816346/90980501-b1db0f00-e596-11ea-8800-519e1b9efbe9.jpg)
 
 
 
